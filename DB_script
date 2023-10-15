@@ -1,0 +1,4 @@
+create table aula (id varchar(255), nome varchar(80), idade decimal(10,2), primary key (id)); 
+
+
+
